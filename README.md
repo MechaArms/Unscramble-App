@@ -24,7 +24,7 @@ Getting Started
 
 <p align="center">
   <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-viewmodel-and-state/img/2ccf154538b63a48_856.png" width="30%" height="30%"/>
-  <img src=https://developer.android.com/static/codelabs/basic-android-kotlin-compose-viewmodel-and-state/img/5339361ef8006ffe_856.png" width="30%" height="30%"/>
-  <img src=https://developer.android.com/static/codelabs/basic-android-kotlin-compose-viewmodel-and-state/img/4f042a38b952c7f_856.png" width="30%" height="30%"/>
+  <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-viewmodel-and-state/img/5339361ef8006ffe_856.png" width="30%" height="30%"/>
+  <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-viewmodel-and-state/img/4f042a38b952c7f_856.png" width="30%" height="30%"/>
 </p>
 
